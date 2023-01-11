@@ -296,6 +296,32 @@ body {
     height: var(--app-height);
 }
 
+@media (max-width:640px) {
+    .home-banner {
+        background-image: url(../img/careers.png);
+    }
+
+    .bg-about-us {
+        background-image: url(../img/who-we-bnr.png);
+    }
+
+    .bg-what-we-do {
+        background-image: url(../img/do.png);
+    }
+
+    .bg-ind-mar {
+        background-image: url(../img/ind-mar-bnr.png);
+    }
+
+    .bg-sustainability {
+        background-image: url(../img/sustainability-bnr.png);
+    }
+
+    .bg-careers {
+        background-image: url(../img/careers.png);
+    }
+}
+
 .h-screen {
     height: 100vh;
 }
