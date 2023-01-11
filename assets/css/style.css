@@ -344,7 +344,7 @@ body {
     transition: all 1.5s ease .1s
 }
 
-@media (max-width:768px) {
+/* @media (max-width:768px) {
     .home-scrollify .section-bg {
         transform: scale3d(1.4, 1.4, 1) !important;
         transition: all 1s ease .1s
@@ -354,7 +354,7 @@ body {
         transform: scale3d(1.3, 1.3, 1) !important;
         transition: all 1s ease .1s
     }
-}
+} */
 
 .header-menu li:first-child a {
     margin-left: 0
