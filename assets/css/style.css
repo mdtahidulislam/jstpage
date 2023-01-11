@@ -292,6 +292,10 @@ body {
     height: var(--app-height);
 }
 
+.h-screen {
+    height: 100vh;
+}
+
 .jst-container {
     margin-left: auto;
     margin-right: auto;
