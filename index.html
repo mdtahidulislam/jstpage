@@ -614,9 +614,10 @@
                     // add active class on current section
                     $('.js-section').removeClass('active');
                     let current = $.scrollify.current();
-                    setTimeout(function () {
-                        current.addClass('active');
-                    }, 100);
+                    current.addClass('active');
+                    // setTimeout(function () {
+                    //     current.addClass('active');
+                    // }, 100);
                     if ($('.js-section.active').length) {
                         // mousemove parallax bg & text
                         parallaxAnim();
