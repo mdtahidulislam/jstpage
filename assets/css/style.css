@@ -292,8 +292,7 @@ body {
     height: var(--app-height);
 }
 
-.js-section,
-.js-section-content {
+.app-height {
     height: var(--app-height);
 }
 
