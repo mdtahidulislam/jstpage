@@ -298,27 +298,27 @@ body {
 
 @media (max-width:640px) {
     .home-banner {
-        background-image: url(../img/careers.png);
+        background-image: url(../img/careers.png) !important;
     }
 
     .bg-about-us {
-        background-image: url(../img/who-we-bnr.png);
+        background-image: url(../img/who-we-bnr.png) !important;
     }
 
     .bg-what-we-do {
-        background-image: url(../img/do.png);
+        background-image: url(../img/do.png) !important;
     }
 
     .bg-ind-mar {
-        background-image: url(../img/ind-mar-bnr.png);
+        background-image: url(../img/ind-mar-bnr.png) !important;
     }
 
     .bg-sustainability {
-        background-image: url(../img/sustainability-bnr.png);
+        background-image: url(../img/sustainability-bnr.png) !important;
     }
 
     .bg-careers {
-        background-image: url(../img/careers.png);
+        background-image: url(../img/careers.png) !important;
     }
 }
 
