@@ -335,7 +335,7 @@ video {
 
 @media (max-width:768px) {
     .home-scrollify .section-bg {
-        transform: scale3d(1.5, 1.5, 1) !important;
+        transform: scale3d(1.4, 1.4, 1) !important;
         transition: all .5s ease .1s
     }
 
