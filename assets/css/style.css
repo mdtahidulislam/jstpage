@@ -344,13 +344,13 @@ body {
 
 .home-scrollify .section-bg {
     /* transform: scale3d(1.5, 1.5, 1) !important; */
-    transform: scale(1.5);
+    transform: scale(1.5) !important;
     transition: all 1.5s ease .1s;
 }
 
 .home-scrollify .active .section-bg {
     /* transform: scale3d(1.2, 1.2, 1) !important; */
-    transform: scale(1.2);
+    transform: scale(1.2) !important;
     transition: all 1.5s ease .1s;
 }
 
